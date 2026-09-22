@@ -2,7 +2,7 @@
 
 💻 Tecnologia da Informação | Suporte Técnico | Hardware  
 🚀 Desenvolvendo meus conhecimentos em programação e TI  
-📍 Guarulhos, São Paulo - Brasil
+📍 São Paulo - Brasil
 
 <p align="left">
   <a href="https://linkedin.com/in/matheusmendess7">
